@@ -1,0 +1,2 @@
+export const ADD_BOOKING = 'ADD_BOOKING';
+export const ADD_BOOKING_ERROR = 'ADD_BOOKING_ERROR';

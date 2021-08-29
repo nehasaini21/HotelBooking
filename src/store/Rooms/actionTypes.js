@@ -1,0 +1,1 @@
+export const ADD_ROOMS = "ADD_ROOMS";
